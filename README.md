@@ -7,6 +7,6 @@
    When enabled, all commits must be made to a non-protected branch and submitted via a pull request before they can be merged into a branch that matches      this rule.
 4) Go down and check <b>*Include administrators*</b> <br/>
    Enforce all configured restrictions above for administrators.
-5) The clone the git repo that was created to your computer(~dev/*repo-name*)
+5) Clone the git repo that was created to your computer(~dev/*repo-name*)
 6) Add/Commit and then push(git push --set-upstream origin *branch-name*) 
 7) That's it you are ready to go!
